@@ -4,7 +4,6 @@ OpenAI Gym: CliffWalkingEnv
 In order to master the algorithms discussed in this lesson, you will write your own implementations in Python. While your code will be designed to work with any OpenAI Gym environment, you will test your code with the CliffWalking environment.
 
 
-Source: Wikipedia
 
 In the CliffWalking environment, the agent navigates a 4x12 gridworld. Please read about the cliff-walking task in Example 6.6 of the textbook. When you have finished, you can learn more about the environment in its corresponding GitHub file, by reading the commented block in the CliffWalkingEnv class. For clarity, we have also pasted the description of the environment below (note that the link below to the Sutton and Barto textbook may not work, and you're encouraged to use this link to access the textbook):
 
