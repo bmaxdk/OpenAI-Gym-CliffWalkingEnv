@@ -25,6 +25,9 @@ In the CliffWalking environment, the agent navigates a 4x12 gridworld. Please re
     """
 
 Part 0: Explore CliffWalkingEnv
+
 Part 1: TD Control: Sarsa
+
 Part 2: TD Control: Q-Learning
+
 Part 3: TD Control: Expected Sarsa
