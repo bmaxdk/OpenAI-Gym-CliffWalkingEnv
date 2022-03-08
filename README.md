@@ -23,3 +23,8 @@ In the CliffWalking environment, the agent navigates a 4x12 gridworld. Please re
     Each time step incurs -1 reward, and stepping into the cliff incurs -100 reward 
     and a reset to the start. An episode terminates when the agent reaches the goal.
     """
+
+Part 0: Explore CliffWalkingEnv
+Part 1: TD Control: Sarsa
+Part 2: TD Control: Q-Learning
+Part 3: TD Control: Expected Sarsa
