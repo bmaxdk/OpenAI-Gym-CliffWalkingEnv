@@ -6,8 +6,7 @@ In order to master the algorithms discussed in this lesson, you will write your 
 
 
 In the CliffWalking environment, the agent navigates a 4x12 gridworld. Please read about the cliff-walking task in Example 6.6 of the textbook. When you have finished, you can learn more about the environment in its corresponding GitHub file, by reading the commented block in the CliffWalkingEnv class. For clarity, we have also pasted the description of the environment below (note that the link below to the Sutton and Barto textbook may not work, and you're encouraged to use this link to access the textbook):
-
-    """
+```text
     This is a simple implementation of the Gridworld Cliff
     reinforcement learning task.
     Adapted from Example 6.6 from Reinforcement Learning: An Introduction
@@ -22,7 +21,7 @@ In the CliffWalking environment, the agent navigates a 4x12 gridworld. Please re
         [3, 1..10] as the cliff at bottom-center
     Each time step incurs -1 reward, and stepping into the cliff incurs -100 reward 
     and a reset to the start. An episode terminates when the agent reaches the goal.
-    """
+```
 
 Part 0: Explore CliffWalkingEnv
 
